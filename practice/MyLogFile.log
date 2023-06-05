@@ -1,0 +1,201 @@
+May 02, 2023 2:49:05 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:24)
+
+May 02, 2023 2:49:05 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application
+May 02, 2023 2:54:15 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:33)
+
+May 02, 2023 2:54:15 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:33)
+
+May 02, 2023 2:54:15 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application
+May 02, 2023 2:54:15 PM com.cglia.practice.LoggerExample main
+WARNING: exiting....
+May 02, 2023 2:55:20 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:33)
+
+May 02, 2023 2:55:20 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:33)
+
+May 02, 2023 2:55:20 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 02, 2023 2:55:20 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 02, 2023 4:08:39 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:37)
+
+May 02, 2023 4:08:39 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:37)
+
+May 02, 2023 4:08:39 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 02, 2023 4:08:39 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 02, 2023 4:41:34 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 02, 2023 4:41:34 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 02, 2023 4:41:49 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:37)
+
+May 02, 2023 4:41:49 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:37)
+
+May 02, 2023 4:41:49 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 02, 2023 4:41:49 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 8:55:43 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 8:55:43 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 8:55:43 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 8:55:43 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 8:58:01 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 8:58:01 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 8:58:28 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 8:58:28 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 8:59:30 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 8:59:30 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 8:59:30 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 8:59:30 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 9:06:28 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:28 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:28 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 9:06:28 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 9:06:30 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:30 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:30 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 9:06:30 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 9:06:31 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:31 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:06:31 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 9:06:31 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 9:08:04 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:08:04 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:39)
+
+May 03, 2023 9:08:04 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 9:08:04 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 03, 2023 9:08:37 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:40)
+
+May 03, 2023 9:08:37 AM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:40)
+
+May 03, 2023 9:08:37 AM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 03, 2023 9:08:37 AM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 05, 2023 1:19:27 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:40)
+
+May 05, 2023 1:19:27 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:40)
+
+May 05, 2023 1:19:27 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 05, 2023 1:19:27 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...
+May 05, 2023 1:20:35 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred file...
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:41)
+
+May 05, 2023 1:20:35 PM com.cglia.practice.LoggerExample main
+SEVERE: Exception occurred console....
+java.lang.ArithmeticException: / by zero
+	at practice/com.cglia.practice.LoggerExample.main(LoggerExample.java:41)
+
+May 05, 2023 1:20:35 PM com.cglia.practice.LoggerExample main
+WARNING: Exiting application file....
+May 05, 2023 1:20:35 PM com.cglia.practice.LoggerExample main
+WARNING: exiting.... console...

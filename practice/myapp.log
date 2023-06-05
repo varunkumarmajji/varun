@@ -1,0 +1,6 @@
+May 24, 2023 6:12:31 PM com.cglia.practice.FileHandlerExample main
+INFO: This is an information message
+May 24, 2023 6:12:31 PM com.cglia.practice.FileHandlerExample main
+WARNING: This is a warning message
+May 24, 2023 6:12:31 PM com.cglia.practice.FileHandlerExample main
+SEVERE: This is a severe message
